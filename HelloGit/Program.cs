@@ -10,6 +10,7 @@ class Program
         CountTo(5);
     }
     
+    // This method counts to the number specified
     static void CountTo(int num)
     {
         Console.WriteLine($"Counting to {num}");
